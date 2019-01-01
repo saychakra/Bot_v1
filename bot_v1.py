@@ -1,5 +1,6 @@
 import wikipedia
 import wolframalpha
+import os
 
 while True:
     my_input = input("Question: ")
